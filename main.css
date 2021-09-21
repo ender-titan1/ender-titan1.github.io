@@ -3,6 +3,11 @@
     text-align: center;
 }
 
+.main-title
+{
+    color: cyan;
+}
+
 *
 {
     margin: 0;
