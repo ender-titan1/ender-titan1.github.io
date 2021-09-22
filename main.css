@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
 
 .top
 {
@@ -11,12 +11,11 @@
 {
     color: black;
     font-size: 100px;
-    font-family: 'Roboto', sans-serif;
 }
 
 *
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
     margin: 0;
     padding: 0;
 }
